@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Friend Like Me",
+  "base_artist": "Ne-Yo",
+  "createdAt": "2026-02-07T15:16:31.231235Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Friend Like Me",
+      "artist": "Robin Williams",
+      "has_synced": true,
+      "path": "select/01_Friend_Like_Me_Robin_Williams.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Friend Like Me",
+      "artist": "Betty Who",
+      "has_synced": true,
+      "path": "select/02_Friend_Like_Me_Betty_Who.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Friend Like Me",
+      "artist": "Will Smith",
+      "has_synced": true,
+      "path": "select/03_Friend_Like_Me_Will_Smith.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Friend Like Me",
+      "artist": "Aladdin",
+      "has_synced": true,
+      "path": "select/04_Friend_Like_Me_Aladdin.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Aladdin - Friend Like Me [High Quality]",
+      "artist": "Disney",
+      "has_synced": true,
+      "path": "select/05_Aladdin_-_Friend_Like_Me_[High_Quality]_Disney.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Friend Like Me (From \"Aladdin\")",
+      "artist": "Robin Williams",
+      "has_synced": false,
+      "path": "select/06_Friend_Like_Me_(From__Aladdin_)_Robin_Williams.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Robin Williams  Friend Like Me [From Disney's ''Aladdin'']",
+      "artist": "Disney",
+      "has_synced": false,
+      "path": "select/07_Robin_Williams_Friend_Like_Me_[From_Disney's_''Aladdin'']_Disney.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "A Friend Like Me",
+      "artist": "The Interrupters",
+      "has_synced": true,
+      "path": "select/08_A_Friend_Like_Me_The_Interrupters.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Friend Like Me (End Title)",
+      "artist": "Will Smith feat. DJ Khaled",
+      "has_synced": true,
+      "path": "select/09_Friend_Like_Me_(End_Title)_Will_Smith_feat._DJ_Khaled.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Friend Like Me",
+      "artist": "Alan Menken",
+      "has_synced": true,
+      "path": "select/10_Friend_Like_Me_Alan_Menken.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Friend Like Me   52Tm",
+      "artist": "Menken Ashman",
+      "has_synced": true,
+      "path": "select/11_Friend_Like_Me_52Tm_Menken_Ashman.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Friend Like Me",
+      "artist": "Williams, Robin",
+      "has_synced": true,
+      "path": "select/12_Friend_Like_Me_Williams,_Robin.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Aladdin: Friend Like Me",
+      "artist": "Robin Williams",
+      "has_synced": false,
+      "path": "select/13_Aladdin__Friend_Like_Me_Robin_Williams.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Friend Like Me (Aladdin)",
+      "artist": "Robin Williams",
+      "has_synced": false,
+      "path": "select/14_Friend_Like_Me_(Aladdin)_Robin_Williams.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Friend Like Me",
+      "artist": "Ne-Yo",
+      "has_synced": true,
+      "path": "select/15_Friend_Like_Me_Ne-Yo.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Friend Like Me",
+      "artist": "Ne‐Yo",
+      "has_synced": true,
+      "path": "select/16_Friend_Like_Me_Ne‐Yo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Friend Like Me",
+      "artist": "Ne-Yo",
+      "has_synced": false,
+      "path": "select/pl_01_Friend_Like_Me_Ne-Yo.txt"
+    }
+  ]
+}
